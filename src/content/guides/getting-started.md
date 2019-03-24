@@ -325,6 +325,7 @@ webpack-demo
 |- /node_modules
 ```
 
+
 T> If you're using npm 5, you'll probably also see a `package-lock.json` file in your directory.
 
 If you want to learn more about webpack's design, you can check out the [basic concepts](/concepts) and [configuration](/configuration) pages. Furthermore, the [API](/api) section digs into the various interfaces webpack offers.
